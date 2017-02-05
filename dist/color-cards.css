@@ -1,7 +1,7 @@
-body {
+/*body {
   height: 100vh;
   background: radial-gradient(#fff, #b2b2b2) 50% 100%/100% 200%;
-  font-size: 18px; }
+  font-size: 18px; }*/ /* uncomment to add the demo site background */
 
 .flex-grid {
   padding: 0;
