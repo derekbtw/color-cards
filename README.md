@@ -4,7 +4,7 @@
 
 ## Usage
 
-Add the CSS found in [/dist/color-cards.css](https://github.com/derekbtw/color-cards/dist/color-cards.css) to your project.
+Add the CSS found in [/dist/color-cards.css](https://github.com/derekbtw/color-cards/blob/master/dist/color-cards.css) to your project.
 
 -or-
 
