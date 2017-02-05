@@ -5,6 +5,9 @@ body {
   background: radial-gradient(#fff, #b2b2b2) 50% 100% / 100% 200%;
   font-size: 18px;
 }
+//-----------------------------------------
+
+
 .flex-grid {
   padding: 0;
   margin: 0;
@@ -17,8 +20,6 @@ body {
   -webkit-flex-flow: row wrap;
   justify-content: space-around;
 }
-//-----------------------------------------
-
 
 .palette {
   width: 14em;
