@@ -39,7 +39,7 @@ Since Color Cards use flexbox, it's easy to use 1-5 different colors on each car
           <div class="color" style="background: #B83B5E"><span>#B83B5E</span></div>
           <div class="color" style="background: #6A2C70"><span>#6A2C70</span></div>
         </div>
-        <footer>First</footer>
+        <footer>Example</footer>
       </div>
     </div>
     ...
